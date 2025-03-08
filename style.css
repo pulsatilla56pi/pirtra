@@ -1,0 +1,29 @@
+body{  
+    background-color: rgb(11, 225, 233);
+color: rgb(0, 0, 0);
+font-family:Arial, Helvetica, sans-serif;
+}
+ul{
+    display:flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 1rem;
+}
+a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+img{
+    height: 500px;
+    width: 500px;
+    border-radius: 70%;
+    border:5px solid white
+}
+.Pih{
+    text-align: center;
+
+}
+H1{
+    color: antiquewhite;
+}
